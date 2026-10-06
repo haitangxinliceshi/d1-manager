@@ -69,4 +69,4 @@ Cloudflare AI Worker:
 
 > Semantic Query uses OpenAI GPT-4.1 Mini to translate natural language queries into SQL.
 > 2026.10.6
-> 
+> 2026.10.6
